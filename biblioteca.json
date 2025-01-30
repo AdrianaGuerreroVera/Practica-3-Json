@@ -1,0 +1,41 @@
+[
+    {
+        "cover":"enderlilies.jpg",
+        "title":"Las desastrosas aventuras en Finisterra",
+        "author":"Manchita",
+        "genre":"Tragicomedia",
+        "year":8884
+    },
+
+    {
+        "cover":"enderlilies.jpg",
+        "title":"Horas desesperantes en Finisterra",
+        "author":"Manchita",
+        "genre":"Tragicomedia",
+        "year":8885
+    },
+
+    {
+        "cover":"enderlilies.jpg",
+        "title":"Todos somos Lili",
+        "author":"Manchita",
+        "genre":"Tragicomedia",
+        "year":8886
+    },
+
+    {
+        "cover":"endermagnolia.jpg",
+        "title":"Los porros de Humelia han intoxicado a todos con humo",
+        "author":"Manchita",
+        "genre":"Tragicomedia",
+        "year":8887
+    },
+
+    {
+        "cover":"endermagnolia.jpg",
+        "title":"La gente ya no fuma, Humelia esta salvada",
+        "author":"Manchita",
+        "genre":"Tragicomedia",
+        "year":8888
+    }
+]
